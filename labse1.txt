@@ -1,0 +1,10 @@
+> first we signed up for github.
+>then registered our account.
+>then we opened a app called terminal and created a directory in the users name where we can save all our files and documents.
+>then we opened the phyton app called idle , opened a new file the we started to tpye the commands .
+>first we typed the command print'johnrohith' it came as syntax error.
+>later we tired using double parantasis "johnrohith" it still came as syntax error.
+>the we tired using the brackets as print (johnrohith)
+>the syntax got approved. It was printed
+>then we tired addittion, subration, mutliplication,dividion.
+>the syntaxes we used to do addition are : first we 
